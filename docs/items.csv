@@ -17,6 +17,7 @@ DeepSpeed,,https://github.com/microsoft/DeepSpeed,logos/58b98f77df62fd32543239f3
 Fluid,,https://fluid-cloudnative.github.io/,logos/58b98f77df62fd32543239f3890d5a71f3a252c609892c744d7eb329b9f78b43.svg,,,,,,,,,,,,,,,,,,,,,CNAI,Data Architecture,,,,,,,,,,,,,,,,,,,,,,,,
 Grafana,,https://github.com/grafana/grafana,logos/58b98f77df62fd32543239f3890d5a71f3a252c609892c744d7eb329b9f78b43.svg,,,,,,,,,,,,,,,,,,,,,CNAI,Workload Observability,,,,,,,,,,,,,,,,,,,,,,,,
 Hadoop HDFS,,https://hadoop.apache.org/,logos/58b98f77df62fd32543239f3890d5a71f3a252c609892c744d7eb329b9f78b43.svg,,,,,,,,,,,,,,,,,,,,,CNAI,Data Architecture,,,,,,,,,,,,,,,,,,,,,,,,
+HAMi,,https://github.com/Project-HAMi/HAMi,logos/0889c2d6d6380435f0de5104976aa24d225efe8fed592470afe1bb422588fbfe.svg,,,,,,,,,Heterogeneous AI Computing Virtualization(vGPU),,,,,,,,,,,,CNAI,General Orchestration,,,,,,,,,,,,,,,,,,,,,,,,
 Horovod,,https://github.com/horovod/horovod,logos/58b98f77df62fd32543239f3890d5a71f3a252c609892c744d7eb329b9f78b43.svg,,,,,,,,,,,,,,,,,,,,,CNAI,Distributed Training,,,,,,,,,,,,,,,,,,,,,,,,
 Hyperopt,,https://hyperopt.github.io/hyperopt/,logos/58b98f77df62fd32543239f3890d5a71f3a252c609892c744d7eb329b9f78b43.svg,,,,,,,,,,,,,,,,,,,,,CNAI,AutoML,,,,,,,,,,,,,,,,,,,,,,,,
 Influxdb,,https://github.com/influxdata/influxdb,logos/58b98f77df62fd32543239f3890d5a71f3a252c609892c744d7eb329b9f78b43.svg,,,,,,,,,,,,,,,,,,,,,CNAI,Workload Observability,,,,,,,,,,,,,,,,,,,,,,,,
